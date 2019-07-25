@@ -1,4 +1,4 @@
-[Demo](chat_online.gif)
+![Demo](chat_online.gif)
 
 # Chat Online
 
